@@ -9,7 +9,7 @@
     <properties>
         <ktor.version>1.5.3</ktor.version>
         <kotlin.code.style>official</kotlin.code.style>
-        <kotlin_version>1.6.21</kotlin_version>
+        <kotlin_version>1.9.24</kotlin_version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <kotlin.compiler.jvmTarget>11</kotlin.compiler.jvmTarget>
         <main.class>io.ktor.server.netty.EngineMain</main.class>
